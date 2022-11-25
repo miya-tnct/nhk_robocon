@@ -1,11 +1,11 @@
 # ros2
-./build
-./install
-./log
+/build
+/install
+/log
 
 #vscode
-./vscode
+/.vscode
 
 #その他
-./tmp*
-./build*
+/tmp*
+/build*
